@@ -1,1 +1,1 @@
-# Garage Burger
+# Garage Fast Burger
