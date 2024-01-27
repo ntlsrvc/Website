@@ -4,11 +4,7 @@ Bem-vindo ao Garage Fast Burguer :hamburger: o melhor lugar para saborear hambú
 
 ## Sobre o Projeto
 
-Este repositório é dedicado à minha hamburgueria favorita! 🎉
-
-## Em Construção 🚧
-
-Yep, é só eu aqui mexendo nas coisas!
+Este repositório é dedicado à minha hamburgueria favorita! Projeto em construção 🚧
 
 ## Feedback 📝
 
