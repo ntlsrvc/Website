@@ -8,7 +8,7 @@ Este repositório é dedicado à minha hamburgueria favorita! 🎉
 
 ## Em Construção 🚧
 
-Yep, é só eu aqui mexendo nas coisas! Este projeto ainda esta em fase de desenvolvimento.
+Yep, é só eu aqui mexendo nas coisas!
 
 ## Feedback 📝
 
