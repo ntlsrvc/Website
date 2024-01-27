@@ -9,7 +9,7 @@
     text-decoration: none;
 }
 :root{
-    --red:#d63a25;
+    --red:#da311b;
     --white:#fff;
     --dark:#1e1c2a;
 }
@@ -30,7 +30,7 @@ body{
 }
 
 .logo {
-    width: 150px;
+    width: 130px;
 }
 
 .navigation ul{
