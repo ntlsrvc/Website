@@ -20,23 +20,28 @@ body{
 .navigation{
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 18px 40px;
+    justify-content: space-around;
     box-shadow: 0 0.1rem 0.5rem #ccc;
     width: 100%;
     background: var(--white);
     transition: all 0.5s;
     position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1000;
 }
 
 .logo {
-    width: 130px;
+    width: 100px;
+    cursor: pointer;
+    margin: 7px 0;
 }
 
 .navigation ul{
     display: flex;
     align-items: center;
     gap: 5rem;
+    list-style: none;
 }
 .navigation ul li a{
     color: var(--dark);
@@ -45,11 +50,23 @@ body{
     transition: all 0.5s;
 }
 .navigation ul li a:hover{
-    color: var(--red);
+    text-decoration: none;
+    font-size: 1em;
+    margin: 0 12px;
+    font-weight: 600;
+    color: #ffffff;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background: var(--red);;
 }
 .navigation i{
     cursor: pointer;
     font-size: 1.5rem;
+}
+
+.icons{
+    display: flex;
+    gap: 30px;
 }
 .menu{
     cursor: pointer;
